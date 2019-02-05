@@ -3,8 +3,7 @@
 **1. This is a Kaggle competetion.  
 2.The training data has 0.2 million data.  
 3.The input is a list of users along with their demographics, web session records, and some summary statistics.  
-4.The output will be the predictions of the first booking destination for each new user ids.  
-**
+4.The output will be the predictions of the first booking destination for each new user ids.**  
 
 ## Background  
 Instead of waking to overlooked "Do not disturb" signs, Airbnb travelers find themselves rising with the birds in a whimsical treehouse, having their morning coffee on the deck of a houseboat, or cooking a shared regional breakfast with their hosts.
