@@ -1,5 +1,5 @@
 ## Airbnb_New_User_Bookings
-**This is a project to predict which country a new user's first booking destination will be.**  
+**In this project we will predict which country a new user's first booking destination will be.**  
 **1. This is a Kaggle competetion.  
 2.The training data has 0.2 million data.  
 3.The input is a list of users along with their demographics, web session records, and some summary statistics.  
